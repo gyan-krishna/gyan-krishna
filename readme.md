@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Gyan Krishna! 
-  ## I also use the name Phenix at times as an alias
-  ### yeah ik, the spelling is wrong, its done on purpose! 😄
+   ### I also use the name Phenix at times as an alias
+   #### Yeah I know, the spelling is wrong, its done on purpose! 😄
 
 I am a Maker, Machine Learning enthusiast, Open Source Contributer, and an Educator!</br>
 
