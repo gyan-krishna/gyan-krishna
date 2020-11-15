@@ -22,3 +22,7 @@ I am a Maker, Machine Learning enthusiast, Open Source Contributer, and an Educa
 
 | Spyder | VS Code | Jupyter Notebook | Pycharm | Arduino IDE|
 | :---: | :---: | :---: | :---: | :---: |
+
+[![Gyan's github stats](https://github-readme-stats.vercel.app/api?username=gyan-krishna)](https://github.com/gyan-krishna/github-readme-stats&theme=tokyonight) </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-krishna)](https://github.com/gyan-krishna/github-readme-stats&theme=tokyonight)
