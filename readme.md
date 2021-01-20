@@ -9,6 +9,7 @@ I am a Maker, Machine Learning enthusiast, Open Source Contributer, and an Educa
 **💬 Ask me About:** Python, Robotics, 3D Printing</br>
 **📫 How to reach me:** [📷 Instagram](https://www.instagram.com/phenix_labs/) [🧳 LinkedIn](https://www.linkedin.com/in/gyan-krishna-8625a1158/)</br>
 
+
 ## Lauguages and Tools:
 
 | Python | C | Java | Arduino |
@@ -26,3 +27,5 @@ I am a Maker, Machine Learning enthusiast, Open Source Contributer, and an Educa
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gyan-krishna&show_icons=true&theme=tokyonight)</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-krishna&theme=tokyonight)](https://github.com/gyan-krishna/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=gyan-krishna)
