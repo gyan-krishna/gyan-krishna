@@ -26,5 +26,4 @@ I am a Maker, Machine Learning enthusiast, Open Source Contributer, and an Educa
 | :---: | :---: | :---: | :---: | :---: |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-krishna&theme=tokyonight)](https://github.com/gyan-krishna/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=gyan-krishna)
